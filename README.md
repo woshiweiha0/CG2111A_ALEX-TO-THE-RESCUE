@@ -29,7 +29,7 @@ The robot integrates:
 
 ## My Contributions
 
-- Developed and debugged the **serial communication protocol** in both C++ and Python for Arduino-Pi interaction
+- Assisted in developing and debugging the **serial communication protocol** in both C++ and Python for Arduino-Pi interaction
 - Implemented **Arduino firmware** for motor and servo control, colour sensing, and interrupt-driven encoder tracking
 - Assisted in integrating **non-blocking single-character input** for increased responsive teleoperation commands on the RPi
 - Improved colour detection accuracy using the **KNN colour detection logic**
